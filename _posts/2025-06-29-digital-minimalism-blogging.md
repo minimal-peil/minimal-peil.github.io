@@ -75,3 +75,13 @@ SEOも最低限、アクセスもまだ少ない。
 これからも、  
 焦らず、のんびり、  
 **「ミニマルなWebライフ」**を楽しんでいこうと思います🌿
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-89D1F7DMB6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-89D1F7DMB6');
+</script>
