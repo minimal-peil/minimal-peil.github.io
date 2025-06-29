@@ -70,12 +70,3 @@ tags: [ブログ運営, GitHub Pages, ミニマリズム, 試行錯誤]
 ---
 
 > 失敗も、無駄も、ぜんぶ楽しんでいこう🌿
-
-<!-- Google Analytics GA4 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-QW740DMBJ2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-QW740DMBJ2');
-</script>
