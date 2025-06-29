@@ -61,12 +61,3 @@ Tune Proのノーマルモードに切り替えて、気持ちを整える時間
 でも少しずつ、「ここならやっていけるかも」と思える場所に出会えたことが、  
 今日はとても大きな一歩だったと感じています。
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-89D1F7DMB6"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-89D1F7DMB6');
-</script>
