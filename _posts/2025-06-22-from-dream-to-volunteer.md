@@ -84,12 +84,4 @@ date: 2025-06-22
 そして、その芽をゆっくり育てながら、  
 誰かと分かち合える日がきたら、それが一番の幸せかもしれない。
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-89D1F7DMB6"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-89D1F7DMB6');
-</script>
