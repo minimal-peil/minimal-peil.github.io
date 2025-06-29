@@ -1,4 +1,4 @@
-{% if page.path contains 'sitemap.xml' %}
+{% if page.name == "sitemap.xml" or page.path contains 'sitemap.xml' %}
   {{ content }}
 {% else %}
 <!DOCTYPE html>
