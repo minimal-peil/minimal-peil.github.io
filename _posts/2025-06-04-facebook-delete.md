@@ -54,12 +54,4 @@ SNSをやめること自体が目的ではなく、**自分にとって心地よ
 
 _この記事はイッタケの個人的な記録です。削除方法やポリシーは変更されることがありますので、最新情報はMetaの公式ページをご確認ください。_
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-89D1F7DMB6"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-89D1F7DMB6');
-</script>
