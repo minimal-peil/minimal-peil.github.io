@@ -97,12 +97,3 @@ Tune Proが教えてくれた安心と、
 そして、OSPとdBudが今の自分にとっての**“静けさの最適解”**。  
 それらが自然と重なって、今日も心の中で静かに鳴っている。
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-89D1F7DMB6"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-89D1F7DMB6');
-</script>
