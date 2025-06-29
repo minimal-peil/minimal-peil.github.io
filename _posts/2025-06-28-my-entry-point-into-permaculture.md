@@ -80,11 +80,3 @@ tags: [パーマカルチャー, 気づき, ライフスタイル]
 
 - [私の「ミニマリズム」と「パーマカルチャー」本との出会い直し](https://minimal-peil.github.io/2025/06/26/my-minimalism-and-permaculture-books-start.html)
 
-<!-- Google Analytics GA4 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-QW740DMBJ2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-QW740DMBJ2');
-</script>
