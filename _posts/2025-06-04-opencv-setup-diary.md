@@ -73,12 +73,4 @@ Pythonで画像認識を学ぶため、OpenCVをmacOSにインストールする
 
 > 焦らず、一歩ずつ。うまくいかない日にも、学びと前進はある。
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-89D1F7DMB6"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-89D1F7DMB6');
-</script>
