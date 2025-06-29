@@ -19,12 +19,4 @@ date: 2025-5-20
 > 📘 *「時間をかけず、無理なく整えられる形」へシフトした選択が気に入っている。*
 
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-89D1F7DMB6"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-89D1F7DMB6');
-</script>
