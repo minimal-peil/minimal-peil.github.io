@@ -55,12 +55,11 @@ tags: ["ミニマリズム", "暮らしの工夫", "筋トレ", "モノとの向
 
 暮らしも、気持ちも、無理なく少しずつ整えていこう🌿
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-89D1F7DMB6"></script>
+<!-- Google Analytics GA4 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QW740DMBJ2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
-  gtag('config', 'G-89D1F7DMB6');
+  gtag('config', 'G-QW740DMBJ2');
 </script>
