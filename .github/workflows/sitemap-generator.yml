@@ -12,16 +12,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate sitemap.txt
-        run: |
-          echo "https://minimal-peil.github.io/" > sitemap.txt
-          find ./_posts -name "*.md" | while read file; do
-            filename=$(basename "$file")
-            date=$(echo $filename | cut -d'-' -f1-3 | tr '-' '/')
-            slug=$(echo $filename | cut -d'-' -f4- | sed 's/.md//')
-            echo "https://minimal-peil.github.io/$date/$slug/" >> sitemap.txt
-          done
-
       - name: Commit sitemap.txt
         run: |
           git config --global user.name 'ペイルbot'
