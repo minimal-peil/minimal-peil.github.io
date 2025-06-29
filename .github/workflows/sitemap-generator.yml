@@ -28,4 +28,4 @@ jobs:
           git config --global user.email 'peil@example.com'
           git add sitemap.txt
           git commit -m "Auto-generate sitemap.txt"
-          git push
+          git push --force
