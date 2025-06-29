@@ -81,12 +81,4 @@ SNSを手放すことは、少し勇気のいる選択だったけれど、
 
 自分のペースで、自分にちょうど良い関係を見つけていこう🌿
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-89D1F7DMB6"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-89D1F7DMB6');
-</script>
