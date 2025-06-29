@@ -1,3 +1,6 @@
+{% if page.path contains 'sitemap.xml' %}
+  {{ content }}
+{% else %}
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -20,14 +23,9 @@
     gtag('config', 'G-QW740DMBJ2');
   </script>
 
-  <!-- Jekyll標準CSS -->
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
-
-  <!-- フィード -->
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}">
-
 </head>
-
 <body>
   {% include header.html %}
 
@@ -40,3 +38,4 @@
   {% include footer.html %}
 </body>
 </html>
+{% endif %}
