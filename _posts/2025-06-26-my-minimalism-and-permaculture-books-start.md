@@ -64,11 +64,4 @@ _（この記事はChatGPTとの対話をもとに作成しました）_
 
 - [私にとってのパーマカルチャーの入り口](https://minimal-peil.github.io/2025/06/28/my-entry-point-into-permaculture.html)
 
-<!-- Google Analytics GA4 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-QW740DMBJ2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-QW740DMBJ2');
-</script>
+
