@@ -71,12 +71,11 @@ tags: [ブログ運営, GitHub Pages, ミニマリズム, 試行錯誤]
 
 > 失敗も、無駄も、ぜんぶ楽しんでいこう🌿
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-89D1F7DMB6"></script>
+<!-- Google Analytics GA4 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QW740DMBJ2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
-  gtag('config', 'G-89D1F7DMB6');
+  gtag('config', 'G-QW740DMBJ2');
 </script>
