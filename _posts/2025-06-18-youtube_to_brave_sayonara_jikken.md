@@ -94,12 +94,4 @@ Braveは、広告が入らず、
 今は「**ちょっと距離を置いてみる**」、そんな実験の期間。  
 しばらくこの**静かな暮らし**を、味わってみようと思う。
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-89D1F7DMB6"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-89D1F7DMB6');
-</script>
