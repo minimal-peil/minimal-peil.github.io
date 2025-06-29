@@ -43,12 +43,4 @@ Takeruさんは今でも好きだけど、
 
 > 🌱 しっくり来る名前で、自分をもっと大切に生きていこう
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-89D1F7DMB6"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-89D1F7DMB6');
-</script>
