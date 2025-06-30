@@ -1,5 +1,5 @@
 
-👤 [About(プロフィール)](profile.md)
+👤 [About](profile.md)
 
 ---
 
