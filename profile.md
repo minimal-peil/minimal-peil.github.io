@@ -1,5 +1,4 @@
 
-![プロフィール画像](/assets/profile-leaf.png)
 ペイル(Peil) 
 
 静かな暮らしを愛するミニマリスト。  
