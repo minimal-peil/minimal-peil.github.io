@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /profile.html
 ---
 
 # Minimal Peil
