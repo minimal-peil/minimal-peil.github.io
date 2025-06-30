@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Minimal Peil
 ---
 
 {% assign counter = 0 %}
