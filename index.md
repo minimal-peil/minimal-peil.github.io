@@ -3,14 +3,14 @@
 {% for post in site.posts %}
   {% if counter == 0 %}
   <!-- 最新記事（1つだけ全文表示） -->
-  ### [{{ post.title }}]({{ post.url }})
+   [{{ post.title }}]({{ post.url }})
   
   {{ post.content }}
 
   ---
   {% else %}
   <!-- 2つ目以降（抜粋＋続きを読む） -->
-  ### [{{ post.title }}]({{ post.url }})
+   [{{ post.title }}]({{ post.url }})
 
   {{ post.excerpt | markdownify }}
 
