@@ -1,3 +1,8 @@
+---
+layout: default
+title: Minimal Peil
+---
+
 {% assign counter = 0 %}
 
 {% for post in site.posts %}
