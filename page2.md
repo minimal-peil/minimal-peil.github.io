@@ -1,7 +1,7 @@
 {% assign counter = 0 %}
 
 {% for post in site.posts offset:4 %}
-  ### [{{ post.title }}]({{ post.url }})
+   [{{ post.title }}]({{ post.url }})
 
   {{ post.excerpt | markdownify }}
 
