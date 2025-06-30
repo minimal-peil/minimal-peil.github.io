@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Minimal Peil
 description: ミニマリズムとパーマカルチャー、そして日々の気づきを綴るブログ。
 ---
 
