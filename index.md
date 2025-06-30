@@ -9,3 +9,14 @@ description: ミニマリズムとパーマカルチャー、そして日々の�
 👤 [About(プロフィール)](profile.md)
 
 ---
+
+## 🌱 最新記事一覧
+
+{% for post in site.posts %}
+### [{{ post.title }}]({{ post.url }})
+
+{{ post.content }}
+
+---
+
+{% endfor %}
