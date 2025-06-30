@@ -2,14 +2,14 @@
 
 {% for post in site.posts %}
   {% if counter == 0 %}
-  <!-- 最新記事（1つだけ全文表示） -->
+  <!-- 最新記事（全文表示） -->
    [{{ post.title }}]({{ post.url }})
-  
+
   {{ post.content }}
 
   ---
-  {% else %}
-  <!-- 2つ目以降（抜粋＋続きを読む） -->
+  {% elsif counter <= 3 %}
+  <!-- 2〜4番目（抜粋＋続きを読む） -->
    [{{ post.title }}]({{ post.url }})
 
   {{ post.excerpt | markdownify }}
@@ -18,6 +18,10 @@
 
   ---
   {% endif %}
-  
+
   {% assign counter = counter | plus: 1 %}
 {% endfor %}
+
+{% if site.posts.size > 4 %}
+[次のページ →](/page2.html)
+{% endif %}
