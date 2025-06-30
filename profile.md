@@ -4,14 +4,14 @@ title: About
 permalink: /profile.html
 ---
 
-# Minimal Peilについて
+# Minimal Peil
 
 小さくて豊かな日々の記録。  
 ミニマリズム・パーマカルチャー・ジャズをやさしくつなぐ暮らしの記録です🌿
 
 ---
 
-## 管理人：ペイル (Peil)
+### ペイル (Peil)
 
 静かな暮らしを愛するミニマリスト。  
 パーマカルチャー、ジャズ、そして言葉をつづる時間が好きです。  
@@ -22,7 +22,7 @@ permalink: /profile.html
 
 ---
 
-## メッセージ
+## message
 
 Hello from Japan!  
 Thanks for finding your way here.  
