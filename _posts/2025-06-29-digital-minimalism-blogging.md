@@ -75,3 +75,9 @@ SEOも最低限、アクセスもまだ少ない。
 これからも、  
 焦らず、のんびり、  
 **「ミニマルなWebライフ」**を楽しんでいこうと思います🌿
+
+---
+
+## 📌 関連記事
+
+- [Minimal Peil、ブログお引越ししました🌱](https://minimal-peil.github.io/2025/06/30/blog-move-notice.html)
