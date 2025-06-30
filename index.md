@@ -1,3 +1,10 @@
+---
+layout: home
+description: ミニマリズムとパーマカルチャー、そして日々の気づきを綴るブログ。
+---
+
+## 🌱 最新記事一覧
+
 {% assign counter = 0 %}
 
 {% for post in paginator.posts %}
