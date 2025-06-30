@@ -16,8 +16,6 @@ future: true
 # google_analytics: G-QW740DMBJ2
 
 # その他（必要なら追記できる）
-paginate: 5
-paginate_path: "/page:num/"
 
 # プラグイン設定（sitemap生成用）
 plugins:
