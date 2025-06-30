@@ -15,7 +15,9 @@ description: ミニマリズムとパーマカルチャー、そして日々の�
 {% for post in site.posts %}
 ### [{{ post.title }}]({{ post.url }})
 
-{{ post.content }}
+{{ post.excerpt | markdownify }}
+
+[続きを読む]({{ post.url }})
 
 ---
 
