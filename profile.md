@@ -1,14 +1,13 @@
 ---
-layout: home
-title: About Minimal Peil
 description: ミニマリズムとパーマカルチャー、そして日々の気づきを綴るブログ。
 ---
+## About Minimal Peil
 
 小さくて豊かな日々の記録。Minimal Peil は、  
 ミニマリズム・パーマカルチャー・ジャズをやさしくつなぐ暮らしの記録です🌿
 
 
-About ペイル(Peil) 
+### About ペイル(Peil) 
 
 静かな暮らしを愛するミニマリスト。  
 パーマカルチャー、ジャズ、そして言葉をつづる時間が好きです。  
