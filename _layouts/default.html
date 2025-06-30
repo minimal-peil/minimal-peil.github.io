@@ -20,6 +20,29 @@
     gtag('config', 'G-QW740DMBJ2');
   </script>
 
+  <!-- Canonical URL -->
+  <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
+
+  <!-- Open Graph / OGP -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ page.title }} | {{ site.title }}">
+  <meta property="og:description" content="{{ page.description | default: site.description }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:image" content="{{ site.url }}/assets/ogp.jpg"> <!-- ← OGP画像があれば差し替えてね -->
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ page.title }} | {{ site.title }}">
+  <meta name="twitter:description" content="{{ page.description | default: site.description }}">
+  <meta name="twitter:image" content="{{ site.url }}/assets/ogp.jpg">
+
+  <!-- favicon -->
+  <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" type="image/x-icon">
+
+  <!-- Robots (必要なら明示的にindex/followを指定) -->
+  <meta name="robots" content="index, follow">
+
   <!-- Jekyll標準CSS -->
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
 
