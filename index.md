@@ -1,10 +1,23 @@
+{% assign counter = 0 %}
+
 {% for post in site.posts %}
-### [{{ post.title }}]({{ post.url }})
+  {% if counter == 0 %}
+  <!-- 最新記事（1つだけ全文表示） -->
+  ### [{{ post.title }}]({{ post.url }})
+  
+  {{ post.content }}
 
-{{ post.excerpt | markdownify }}
+  ---
+  {% else %}
+  <!-- 2つ目以降（抜粋＋続きを読む） -->
+  ### [{{ post.title }}]({{ post.url }})
 
-[続きを読む]({{ post.url }})
+  {{ post.excerpt | markdownify }}
 
----
+  [続きを読む]({{ post.url }})
 
+  ---
+  {% endif %}
+  
+  {% assign counter = counter | plus: 1 %}
 {% endfor %}
