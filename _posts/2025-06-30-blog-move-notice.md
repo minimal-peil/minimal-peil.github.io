@@ -39,4 +39,5 @@ tags: ["お知らせ", "ブログ運営", "ミニマリズム", "パーマカル
 
 ## 📌 関連記事
 
+- [Blog Move To Github Pages](https://www.minimal-peil.com/2025/06/30/blog-move-to-github-pages.html)
 - [デジタルミニマリズムの真骨頂：完全無料でブログ再スタート！](https://minimal-peil.github.io/2025/06/29/digital-minimalism-blogging.html)
