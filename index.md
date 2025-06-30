@@ -1,6 +1,6 @@
 ---
-layout: home
-description: ミニマリズムとパーマカルチャー、そして日々の気づきを綴るブログ。
+layout: default
+title: Minimal Peil
 ---
 
 ## 🌱 最新記事一覧
@@ -9,14 +9,14 @@ description: ミニマリズムとパーマカルチャー、そして日々の�
 
 {% for post in paginator.posts %}
   {% if counter == 0 %}
-  <!-- 最新記事だけ全文表示 -->
+  <!-- 最新記事全文表示 -->
   ### [{{ post.title }}]({{ post.url }})
 
   {{ post.content }}
 
   ---
   {% elsif counter <= 3 %}
-  <!-- 2〜4番目の記事は抜粋だけ -->
+  <!-- 2〜4番目：抜粋だけ -->
   ### [{{ post.title }}]({{ post.url }})
 
   {{ post.excerpt | markdownify }}
@@ -25,7 +25,6 @@ description: ミニマリズムとパーマカルチャー、そして日々の�
 
   ---
   {% endif %}
-
   {% assign counter = counter | plus: 1 %}
 {% endfor %}
 
