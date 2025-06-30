@@ -1,8 +1,3 @@
-
-👤 [About](profile.md)
-
----
-
 ## 🌱 最新記事一覧
 
 {% for post in site.posts %}
