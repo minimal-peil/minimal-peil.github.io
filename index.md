@@ -23,5 +23,5 @@
 {% endfor %}
 
 {% if site.posts.size > 4 %}
-[次のページ →](/page2.html)
+[次のページ →](/page2.md)
 {% endif %}
