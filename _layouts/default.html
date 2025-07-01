@@ -59,25 +59,7 @@
       {{ content }}
 
       <!-- Giscusコメント（記事ページだけ） -->
-      {% if page.layout == "post" %}
-        <div class="giscus-wrapper" style="margin-top: 2em;">
-          <script src="https://giscus.app/client.js"
-                  data-repo="ittake-tech/slowtech-diary"
-                  data-repo-id="R_kgDOO3dqkA"
-                  data-category="General"
-                  data-category-id="DIC_kwDOO3dqkM4Cr3z"
-                  data-mapping="pathname"
-                  data-strict="0"
-                  data-reactions-enabled="1"
-                  data-emit-metadata="0"
-                  data-input-position="bottom"
-                  data-theme="light"
-                  crossorigin="anonymous"
-                  async>
-          </script>
-          <div class="giscus"></div>
-        </div>
-      {% endif %}
+      
       <!-- /Giscusコメント -->
 
     </div>
