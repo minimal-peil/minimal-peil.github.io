@@ -16,8 +16,5 @@ future: true
 # google_analytics: G-QW740DMBJ2
 
 # その他（必要なら追記できる）
-include:
-  - sitemap.xml
-
-exclude:
-  - sitemap.xml
+plugins:
+  - jekyll-sitemap
