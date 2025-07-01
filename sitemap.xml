@@ -1,20 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- トップページ -->
   <url>
     <loc>https://minimal-peil.github.io/</loc>
   </url>
 
-  <!-- 個別記事ページ例 -->
   <url>
-    <loc>https://minimal-peil.github.io/2025/06/25/dips-stand-hold-for.html</loc>
+    <loc>https://minimal-peil.github.io/2025/05/20/daily-report.html</loc>
+  </url>
+
+  <url>
+    <loc>https://minimal-peil.github.io/2025/06/03/chatgpt-plus.html</loc>
+  </url>
+
+  <url>
+    <loc>https://minimal-peil.github.io/2025/06/03/jazzdj.html</loc>
+  </url>
+
+  <url>
+    <loc>https://minimal-peil.github.io/2025/06/04/facebook-delete.html</loc>
+  </url>
+
+  <url>
+    <loc>https://minimal-peil.github.io/2025/06/04/opencv-setup-diary.html</loc>
+  </url>
+
+  <url>
+    <loc>https://minimal-peil.github.io/2025/06/04/sns-to-minimalism.html</loc>
+  </url>
+
+  <url>
+    <loc>https://minimal-peil.github.io/2025/06/17/totonoeru_tame_no_web.html</loc>
+  </url>
+
+  <url>
+    <loc>https://minimal-peil.github.io/2025/06/18/neck_strap_pouch_to_sayonara_wallet.html</loc>
+  </url>
+
+  <url>
+    <loc>https://minimal-peil.github.io/2025/06/18/youtube_to_brave_sayonara_jikken.html</loc>
+  </url>
+
+  <url>
+    <loc>https://minimal-peil.github.io/2025/06/19/a4000_btr13_to_osp.html</loc>
+  </url>
+
+  <url>
+    <loc>https://minimal-peil.github.io/2025/06/19/osp1dai_de_jubun.html</loc>
+  </url>
+
+  <url>
+    <loc>https://minimal-peil.github.io/2025/06/19/osp_way_out_west_only.html</loc>
+  </url>
+
+  <url>
+    <loc>https://minimal-peil.github.io/2025/06/19/socks_5pair_tebanashi.html</loc>
+  </url>
+
+  <url>
+    <loc>https://minimal-peil.github.io/2025/06/19/tunepro_wo_shimau_sentaku.html</loc>
+  </url>
+
+  <url>
+    <loc>https://minimal-peil.github.io/2025/06/19/audible_wo_tebanashite_mita.html</loc>
+  </url>
+
+  <url>
+    <loc>https://minimal-peil.github.io/2025/06/20/airpods_dame_kara_boneconfort.html</loc>
+  </url>
+
+  <url>
+    <loc>https://minimal-peil.github.io/2025/06/21/github-pages-custom-domain-story.html</loc>
+  </url>
+
+  <url>
+    <loc>https://minimal-peil.github.io/2025/06/21/let-go-sns-and-youtube.html</loc>
+  </url>
+
+  <url>
+    <loc>https://minimal-peil.github.io/2025/06/22/from-ittake-to-peil.html</loc>
+  </url>
+
+  <url>
+    <loc>https://minimal-peil.github.io/2025/06/22/from-dream-to-volunteer.html</loc>
+  </url>
+
+  <url>
+    <loc>https://minimal-peil.github.io/2025/06/24/coffee-work-experience.html</loc>
+  </url>
+
+  <url>
+    <loc>https://minimal-peil.github.io/2025/06/25/dips-stand-hold-for-now.html</loc>
+  </url>
+
+  <url>
+    <loc>https://minimal-peil.github.io/2025/06/26/my-minimalism-and-permaculture-books-start.html</loc>
+  </url>
+
+  <url>
+    <loc>https://minimal-peil.github.io/2025/06/28/my-entry-point-into-permaculture.html</loc>
+  </url>
+
+  <url>
+    <loc>https://minimal-peil.github.io/2025/06/28/trial-and-error-is-the-fun-of-minimal-blogging.html</loc>
   </url>
 
   <url>
     <loc>https://minimal-peil.github.io/2025/06/29/digital-minimalism-blogging.html</loc>
   </url>
 
-  <!-- 必要なら、他の記事URLもここに追加 -->
+  <url>
+    <loc>https://minimal-peil.github.io/2025/06/29/first-international-visitor.html</loc>
+  </url>
+
+  <url>
+    <loc>https://minimal-peil.github.io/2025/06/29/permaculture-scale-surprise.html</loc>
+  </url>
+
+  <url>
+    <loc>https://minimal-peil.github.io/2025/06/30/blog-move-notice.html</loc>
+  </url>
 
 </urlset>
