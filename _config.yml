@@ -18,6 +18,3 @@ future: true
 # その他（必要なら追記できる）
 include:
   - sitemap.xml
-# プラグイン設定（sitemap生成用）
-plugins:
-  - jekyll-sitemap
