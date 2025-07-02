@@ -18,4 +18,6 @@ future: true
 # その他（必要なら追記できる）
 plugins:
   - jekyll-sitemap
+  
+# URL設定（日付なしスラッグ形式）
 permalink: /:slug/
