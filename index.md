@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 {% assign counter = 0 %}
 
 {% for post in site.posts %}
@@ -27,4 +28,4 @@ layout: default
 
 {% if site.posts.size > 4 %}
 [次のページ →](/page2.md)
-{% endif %
+{% endif %}
