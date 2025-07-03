@@ -8,7 +8,6 @@ tags:
   - ジャズ
   - GitHub Pages
   - ChatGPT
-slug: five-pillars-of-my-blog
 date: 2025-07-03
 ---
 
