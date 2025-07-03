@@ -8,7 +8,7 @@ tags:
   - ジャズ
   - GitHub Pages
   - ChatGPT
-date: 2025-07-03
+date: 2025-07-04
 ---
 
 ## はじめに
