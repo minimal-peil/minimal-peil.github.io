@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 {% assign counter = 0 %}
 
 {% for post in site.posts %}
