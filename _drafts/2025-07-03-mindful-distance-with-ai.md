@@ -6,7 +6,6 @@ tags:
   - 自分との対話
   - 心の整え方
   - ミニマリズム
-slug: mindful-distance-with-ai
 date: 2025-07-03
 ---
 
