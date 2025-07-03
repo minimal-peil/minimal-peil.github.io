@@ -2,22 +2,30 @@
 layout: default
 ---
 
-<h1>最新記事</h1>
-
 {% assign counter = 0 %}
-{% for post in site.posts %}
-  <div class="post-card {% if counter == 0 %}latest{% endif %}">
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 
-    {% if counter == 0 %}
-      <div class="post-content">{{ post.content }}</div>
-    {% else %}
-      <div class="post-excerpt">{{ post.excerpt | markdownify }}</div>
-      <a class="read-more" href="{{ post.url }}">続きを読む →</a>
-    {% endif %}
-  </div>
-  {% assign counter = counter | plus: 1 %}
-  {% if counter > 3 %}
-    {% break %}
+{% for post in site.posts %}
+  {% if counter == 0 %}
+  <!-- 最新記事（全文表示） -->
+   [{{ post.title }}]({{ post.url }})
+
+  {{ post.content }}
+
+  ---
+  {% elsif counter <= 3 %}
+  <!-- 2〜4番目（抜粋＋続きを読む） -->
+   [{{ post.title }}]({{ post.url }})
+
+  {{ post.excerpt | markdownify }}
+
+  [続きを読む]({{ post.url }})
+
+  ---
   {% endif %}
+
+  {% assign counter = counter | plus: 1 %}
 {% endfor %}
+
+{% if site.posts.size > 4 %}
+[次のページ →](/page2.md)
+{% endif %
