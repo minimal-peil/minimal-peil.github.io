@@ -38,11 +38,3 @@ title: About
 Hello from Japan!  
 Thanks for finding your way here.  
 I hope you enjoy your time on my blog.
-
----
-
-## message
-
-Hello from Japan!  
-Thanks for finding your way here.  
-I hope you enjoy your time on my blog.
