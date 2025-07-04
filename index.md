@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[About(プロフィール)](profile.md)
+
 {% assign counter = 0 %}
 
 {% for post in site.posts %}
