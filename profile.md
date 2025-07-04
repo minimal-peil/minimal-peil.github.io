@@ -18,7 +18,7 @@ title: About
 - 🤖 AI（ChatGPT）：整理と対話のパートナー
 
 それぞれのテーマについて、もう少し詳しく紹介した記事はこちらです：  
-👉 [ミニマリズム、パーマカルチャー、ジャズ、GitHub Pages、そしてAI](/five-pillars-of-my-blog)
+👉 [ミニマリズム、パーマカルチャー、ジャズ、GitHub Pages、そしてAI](https://www.minimal-peil.com/my-blog-theme/)
 
 ---
 
