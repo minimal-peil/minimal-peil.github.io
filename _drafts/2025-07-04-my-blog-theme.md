@@ -123,4 +123,4 @@ AIと話しながら、自分の暮らしの中に「自然の感覚」を取り
 ## 📌 関連記事
 
 - [やっぱり、これだけでいい。ロリンズ特集と私のミニマルリスニング](https://www.minimal-peil.com/minimal-listening-rollins/)
-- [ここにもう1つあればタイトル](リンク先URL)
+- [私にとってのパーマカルチャーの入り口](https://www.minimal-peil.com/my-entry-point-into-permaculture/)
