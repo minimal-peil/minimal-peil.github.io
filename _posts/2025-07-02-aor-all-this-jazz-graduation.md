@@ -5,8 +5,6 @@ description: 長年楽しんできた「AOR All This Jazz」と、私なりの�
 tags: [ジャズ, ライフスタイル, 音楽]
 ---
 
-## 🌿 長いあいだ、ありがとう
-
 ここ数年、  
 私は **「AOR All This Jazz」** という番組を、ずっと楽しみにしてきました。
 
