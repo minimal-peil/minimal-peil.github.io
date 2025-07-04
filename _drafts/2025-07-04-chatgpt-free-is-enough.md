@@ -54,7 +54,7 @@ date: 2025-07-04
 
 ---
 
-## 📌 関連記事
+### 📌 関連記事
 
-- [ここに関連記事タイトル](リンク先URL)
-- [ここにもう1つあればタイトル](リンク先URL)
+- [私の「ミニマリズム」と「パーマカルチャー」本との出会い直し](https://www.minimal-peil.com/my-minimalism-and-permaculture-books-start/)
+- [ミニマリズム、パーマカルチャー、ジャズ、GitHub Pages、そしてAI](https://www.minimal-peil.com/my-blog-theme/)
