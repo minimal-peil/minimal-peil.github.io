@@ -124,3 +124,5 @@ AIと話しながら、自分の暮らしの中に「自然の感覚」を取り
 
 - [やっぱり、これだけでいい。ロリンズ特集と私のミニマルリスニング](https://www.minimal-peil.com/minimal-listening-rollins/)
 - [私にとってのパーマカルチャーの入り口](https://www.minimal-peil.com/my-entry-point-into-permaculture/)
+- [「さよなら有料版、こんにちは無料版生活」]((https://www.minimal-peil.com/goodbye-plus-plan/)
+- [試行錯誤こそがミニマルブログの楽しさ](https://www.minimal-peil.com/trial-and-error-is-the-fun-of-minimal-blogging/)
