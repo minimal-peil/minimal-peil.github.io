@@ -90,5 +90,5 @@ Minimal Peilという小さな庭に、構築という「土」と、記事と�
 
 ## 📌 関連記事
 
-- [ここに関連記事タイトル](リンク先URL)
-- [ここにもう1つあればタイトル](リンク先URL)
+- [ミニマリズム、パーマカルチャー、ジャズ、GitHub Pages、そしてAI](https://www.minimal-peil.com/my-blog-theme/)
+- [私の「ミニマリズム」と「パーマカルチャー」本との出会い直し](https://www.minimal-peil.com/my-minimalism-and-permaculture-books-start/)
