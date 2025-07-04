@@ -12,6 +12,8 @@ layout: default
   {{ post.content }}
 
   ---
+ 
+  
   {% elsif counter <= 3 %}
   <!-- 2〜4番目（抜粋＋続きを読む） -->
    [{{ post.title }}]({{ post.url }})
@@ -20,7 +22,11 @@ layout: default
 
   [続きを読む]({{ post.url }})
 
+
+
   ---
+ 
+  
   {% endif %}
 
   {% assign counter = counter | plus: 1 %}
