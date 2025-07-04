@@ -5,8 +5,6 @@ description: 長年聴いてきたAOR All This Jazzから、NHK FM「JAZZ TONIGH
 tags: [ジャズ, ライフスタイル, 音楽]
 ---
 
-## 🎷 新しい夜のお供、見つけました
-
 この数年間、  
 私の夜時間の定番だったのは **「AOR All This Jazz」** でした。
 
