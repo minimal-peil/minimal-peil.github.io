@@ -1,5 +1,7 @@
 ---
 layout: default
+description: 小さくて豊かな日々の記録。
+ミニマリズム・パーマカルチャー・ジャズをやさしくつなぐ暮らしの記録です🌿
 ---
 
 [About(プロフィール)](profile.md)
