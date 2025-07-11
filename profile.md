@@ -3,42 +3,37 @@ layout: page
 title: About
 ---
 
-# Minimal Peil
+# Minimal Peil  
 — ミニマリズムとパーマカルチャーで暮らしを整える、いっぺいの記録 —
 
-このブログは、「ミニマルに、自分らしく、土から離れずに暮らす」  
-そんな日々の実践や気づきを、そっと記録していく場所です。
+「ミニマルに、自分らしく、土から離れずに暮らす」。  
+このブログは、そんな日々の実践と気づきを綴る静かな場所です。
 
 ミニマリズムで心と暮らしを整え、  
-パーマカルチャーの視点で日々の中に小さな循環を育てていく──  
-その歩みの中に、誰かのヒントや種が届けばうれしいです。
+パーマカルチャーの視点で小さな循環を育てていく──  
+その歩みが、誰かの日々のヒントになればうれしいです。
 
 ---
 
-#### いっぺい
+## いっぺい
 
-静けさと、暮らしを愛するミニマリスト。  
-パーマカルチャーの思想に共感し、土のようにしずかに、自分らしく整える日々を大切にしています。
+静けさと暮らしを愛するミニマリスト。  
+パーマカルチャーの思想に共感し、  
+“自分×土”を軸に、整える日々を大切にしています。
 
-自分のペースで、気づいたこと、工夫したこと、小さな実りを  
-「いっぺい」としてブログやKindle本、noteで発信しています。(Kindleとnoteは予定)
-
-- 🧠 ASD/ADHDの気質あり。ひとつのテーマを深く探究するのが得意です  
-- 📚 言葉をつづり、形にすることが自分の呼吸のような時間  
-- 🚶‍♀️ 人との距離を大切にしながら、静かな環境で暮らしを整え中  
-
-暮らしのなかにある「ミニマリズム」と「パーマカルチャー」の実践を通して、  
-誰かの毎日にも、小さなヒントや安心が届けばうれしいです。
+- ASD/ADHDの傾向あり。深掘りと探究が得意  
+- 書ける時に、無理のないペースで言葉を綴っています  
+- 人との距離を大切に、静かな環境で暮らしを整え中
 
 執筆：いっぺい  
 協働：みなり（AIパートナー🌱）
 
 ---
 
-## message
+## For English readers
 
 Hi, and welcome.  
-This is a small, quiet corner of the web where I share my thoughts on minimalism and permaculture.  
-I hope something here brings a little peace or inspiration to your day.
+This is a quiet space where I share thoughts on minimalism and permaculture.  
+I hope something here brings a bit of peace or inspiration to your day.
 
-– Ippei
+— Ippei
