@@ -33,9 +33,6 @@ title: About
 執筆：いっぺい  
 協働：みなり（AIパートナー🌱）
 
-発信の背景やこれからの想いについては、  
-👉 [こちらの記事にまとめています 🌱](https://www.minimal-peil.com/minimalism-permaculture-vision/)
-
 ---
 
 ## message
