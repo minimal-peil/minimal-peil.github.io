@@ -37,6 +37,8 @@ title: About
 
 ## message
 
-Hello from Japan!  
-Thanks for finding your way here.  
-I hope you enjoy your time on my blog.
+Hi, and welcome.  
+This is a small, quiet corner of the web where I share my thoughts on minimalism and permaculture.  
+I hope something here brings a little peace or inspiration to your day.
+
+– Ippei
