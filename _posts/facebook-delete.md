@@ -1,6 +1,8 @@
 ---
+layout: post
 title: "Facebookアカウント削除の記録（2025年）"
 date: 2025-06-04
+slug: facebook-delete
 ---
 
 2025年、これまで使っていたFacebookのアカウントを手放すことにしました。  
