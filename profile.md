@@ -27,7 +27,7 @@ title: About
 
 ---
 
-## For English readers
+### For English readers
 
 Hi, and welcome.  
 This is a quiet space where I share thoughts on minimalism and permaculture.  
