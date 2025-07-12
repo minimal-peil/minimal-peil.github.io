@@ -10,7 +10,6 @@ url: "https://minimal-peil.com"
 markdown: kramdown
 
 theme: minima
-future: true
 
 # Google AnalyticsのトラッキングID（使うならここに入れてもOK）
 # google_analytics: G-QW740DMBJ2
