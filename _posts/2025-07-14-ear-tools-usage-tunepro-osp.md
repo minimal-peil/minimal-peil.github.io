@@ -1,5 +1,5 @@
 ---
-title: "Tune ProとOSPの使い分け：耳まわりの道具を暮らしにフィットさせるまで"
+title: "Tune ProとOpenSwim Pro(OSP)の使い分け：耳まわりの道具を暮らしにフィットさせるまで"
 slug: "ear-tools-usage-tunepro-osp"
 description: "耳まわりの道具を整えてきた試行錯誤の記録。Tune ProとOSPの役割が見えてきた今、音とやさしく付き合う暮らしが少しずつ育っています。"
 tags: ["耳ガジェット", "ミニマルライフ", "暮らしを整える", "TunePro", "OSP", "聴覚過敏", "音のある暮らし", "ペイルの工夫"]
