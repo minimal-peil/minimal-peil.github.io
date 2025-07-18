@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://minimal-peil.github.io/sitemap.xml
+Sitemap: https://minimal-peil.com/sitemap.xml
