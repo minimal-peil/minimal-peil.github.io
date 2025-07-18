@@ -4,7 +4,7 @@ title: About
 ---
 
 # Minimal Peil  
-— ミニマリズムとパーマカルチャーで暮らしを整える、いっぺいの記録 —
+— ミニマリズムとパーマカルチャーで暮らしを整える、ペイルの記録 —
 
 「ミニマルに、自分らしく、土から離れずに暮らす」。  
 このブログは、そんな日々の実践と気づきを綴る静かな場所です。
@@ -33,4 +33,4 @@ Hi, and welcome.
 This is a quiet space where I share thoughts on minimalism and permaculture.  
 I hope something here brings a bit of peace or inspiration to your day.
 
-— Ippei
+— Peil
