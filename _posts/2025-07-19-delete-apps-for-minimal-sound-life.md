@@ -1,7 +1,7 @@
 ---
 title: "SNSゼロと音の再設計：Brave、audible、YouTube、noteアプリを削除して"
 slug: delete-apps-for-minimal-sound-life
-date: 2025-07-18
+date: 2025-07-19
 description: >
   Brave、audible、YouTube、noteなどの情報系アプリを手放し、音の環境をミニマルに再設計した記録。必要なものを必要な形で残し、静けさの中で暮らす選択。
 tags:
