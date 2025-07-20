@@ -4,7 +4,7 @@
 title: Minimal Peil
 description: ミニマリズムとパーマカルチャーで暮らしを整える、ペイルの記録
 baseurl: "" # 独自ドメインなので空でOK
-url: "https://minimal-peil.com"
+url: "https://minimal-peil.github.io"
 
 # Markdownの変換エンジン指定
 markdown: kramdown
