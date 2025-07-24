@@ -9,3 +9,6 @@
     gtag('js', new Date());
     gtag('config', 'G-QW740DMBJ2');
   </script>
+
+# Google AnalyticsのトラッキングID（使うならここに入れてもOK）
+# google_analytics: G-QW740DMBJ2
