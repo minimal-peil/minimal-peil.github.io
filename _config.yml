@@ -12,7 +12,7 @@ markdown: kramdown
 theme: minima
 
 # Google AnalyticsのトラッキングID（使うならここに入れてもOK）
-# google_analytics: G-QW740DMBJ2
+
 
 # その他（必要なら追記できる）
 plugins:
