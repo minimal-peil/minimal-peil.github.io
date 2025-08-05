@@ -15,6 +15,10 @@ Air Pro 4は、**ディープANCモードでも自然に会話ができる**の�
 
 ## 🛠 左右のコントロール設定
 
+![t2tsSihXI4c2Y8mYLNTNped0xsT2/IimYrmznxpZaI0M5.jpg](https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/t2tsSihXI4c2Y8mYLNTNped0xsT2%2FIimYrmznxpZaI0M5.jpg?alt=media&token=4b874fff-2cf7-45a1-acf9-0dd2df752cbd)
+
+![t2tsSihXI4c2Y8mYLNTNped0xsT2/cbOHrubSVLsLg8SD.jpg](https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/t2tsSihXI4c2Y8mYLNTNped0xsT2%2FcbOHrubSVLsLg8SD.jpg?alt=media&token=210e6da4-ed92-4b09-960c-fa73a3e55c39)
+
 ### 🎵 左耳
 - **シングルタップ** → 無効（誤操作防止）
 - **ダブルタップ** → 次の曲
