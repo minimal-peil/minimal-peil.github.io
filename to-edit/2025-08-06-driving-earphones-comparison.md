@@ -1,5 +1,5 @@
 ---
-title: "運転中のイヤホン比較：Air Pro 4とOSP+dBudの使い分け"
+title: "運転中のイヤホン比較：Air Pro 4とOSP(OpenaSwim Pro)+dBudの使い分け"
 slug: driving-earphones-comparison
 date: 2025-08-06
 description: "運転中にAir Pro 4とOSP+dBudを試した実感を比較。聴覚過敏の視点から、車内で快適に過ごすためのイヤホン選びを考えます。"
